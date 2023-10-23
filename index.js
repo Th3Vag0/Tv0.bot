@@ -1,1 +1,125 @@
-const _0x33b2d1=_0x22b3;(function(_0x58759a,_0x47cd77){const _0x5eeb2a=_0x22b3,_0x2edda3=_0x58759a();while(!![]){try{const _0xe8fe22=parseInt(_0x5eeb2a(0xbf))/0x1+-parseInt(_0x5eeb2a(0xac))/0x2+-parseInt(_0x5eeb2a(0xb0))/0x3+parseInt(_0x5eeb2a(0xa9))/0x4*(parseInt(_0x5eeb2a(0xb2))/0x5)+parseInt(_0x5eeb2a(0xbe))/0x6+-parseInt(_0x5eeb2a(0xab))/0x7+parseInt(_0x5eeb2a(0xb5))/0x8*(-parseInt(_0x5eeb2a(0xa7))/0x9);if(_0xe8fe22===_0x47cd77)break;else _0x2edda3['push'](_0x2edda3['shift']());}catch(_0x59ade2){_0x2edda3['push'](_0x2edda3['shift']());}}}(_0x5e4b,0x5f211),console[_0x33b2d1(0xc4)](_0x33b2d1(0xa5)));import{join,dirname}from'path';import{createRequire}from'module';import{fileURLToPath}from'url';import{setupMaster,fork}from'cluster';function _0x22b3(_0x718ec,_0x313497){const _0x5e4b21=_0x5e4b();return _0x22b3=function(_0x22b3da,_0x1224da){_0x22b3da=_0x22b3da-0xa5;let _0x50e4c8=_0x5e4b21[_0x22b3da];return _0x50e4c8;},_0x22b3(_0x718ec,_0x313497);}import{watchFile,unwatchFile}from'fs';import _0x15e376 from'cfonts';import{createInterface}from'readline';import _0x543463 from'yargs';const __dirname=dirname(fileURLToPath(import.meta[_0x33b2d1(0xc9)])),require=createRequire(__dirname),{name,author}=require(join(__dirname,_0x33b2d1(0xba))),{say}=_0x15e376,rl=createInterface(process[_0x33b2d1(0xa8)],process[_0x33b2d1(0xbb)]);say(_0x33b2d1(0xc3),{'font':'chrome','align':_0x33b2d1(0xcb),'gradient':[_0x33b2d1(0xbd),_0x33b2d1(0xc8)]}),say(_0x33b2d1(0xaa),{'font':_0x33b2d1(0xc7),'align':'center','gradient':[_0x33b2d1(0xbd),_0x33b2d1(0xc8)]});var isRunning=![];function start(_0x358361){const _0x3ac255=_0x33b2d1;if(isRunning)return;isRunning=!![];let _0x53d030=[join(__dirname,_0x358361),...process[_0x3ac255(0xc0)][_0x3ac255(0xa6)](0x2)];say('Ajuste\x20la\x20pantalla\x20para\x20escanear\x20el\x20codigo\x20QR',{'font':_0x3ac255(0xc7),'align':_0x3ac255(0xcb),'gradient':[_0x3ac255(0xbd),_0x3ac255(0xc8)]}),setupMaster({'exec':_0x53d030[0x0],'args':_0x53d030[_0x3ac255(0xa6)](0x1)});let _0x198a5a=fork();_0x198a5a['on'](_0x3ac255(0xb6),_0x162a8b=>{const _0x57b5a0=_0x3ac255;console[_0x57b5a0(0xc4)](_0x57b5a0(0xcc),_0x162a8b);switch(_0x162a8b){case _0x57b5a0(0xc5):_0x198a5a['process'][_0x57b5a0(0xaf)](),isRunning=![],start[_0x57b5a0(0xbc)](this,arguments);break;case _0x57b5a0(0xb7):_0x198a5a[_0x57b5a0(0xae)](process[_0x57b5a0(0xb7)]());break;}}),_0x198a5a['on']('exit',(_0x5c86ca,_0x3309d9)=>{const _0xb116e=_0x3ac255;isRunning=![],console[_0xb116e(0xb3)](_0xb116e(0xb8),_0x3309d9),_0x198a5a[_0xb116e(0xca)][_0xb116e(0xaf)](),isRunning=![],start[_0xb116e(0xbc)](this,arguments);if(_0x3309d9===0x0)return;watchFile(_0x53d030[0x0],()=>{unwatchFile(_0x53d030[0x0]),start(_0x358361);});});let _0x35d7a9=new Object(_0x543463(process[_0x3ac255(0xc0)][_0x3ac255(0xa6)](0x2))[_0x3ac255(0xc1)](![])[_0x3ac255(0xb4)]());if(!_0x35d7a9[_0x3ac255(0xc2)]){if(!rl[_0x3ac255(0xb9)]())rl['on'](_0x3ac255(0xc6),_0x3f53bf=>{const _0x1cd7e6=_0x3ac255;_0x198a5a[_0x1cd7e6(0xb1)](_0x1cd7e6(0xb6),_0x3f53bf[_0x1cd7e6(0xad)]());});}}start(_0x33b2d1(0xcd));function _0x5e4b(){const _0x4738d9=['stdin','4RWpvTL','EL\x20MEJOR\x20BOT\x20DE\x20WHATSAPP\x202022\x20LA\x20MEJOR\x20CALIDAD\x20Y\x20SERVICIO\x20DE\x20WHATSAPP\x20HADES_BOT\x0a|<\x20==================================================\x20>|\x0a[•]-SERVIDOR\x20:\x20PRIVADO\x0a[•]-BOT\x20VERSION\x20:\x2010.19.0\x0a[•]-ESTADO\x20:\x20ACTIVO\x0a[•]-Owner\x20:\x20YOVANI\x0a[•]-GRACIAS\x20POR\x20USAR\x20LE\x20BOT\x20DE\x20HADES\x20\x0a[•]-SUBSCRIBETE\x20LA\x20CANAL\x20YOUTUBE\x20\x0a[•]-CERRADO\x20EL\x20BOT\x20YOVANI\x0a|<\x20==================================================\x20>|','239995jduLgF','620516emXpLk','trim','send','kill','558003jTAbgu','emit','362685ZXODaL','error','parse','8uCjqsL','message','uptime','❎ㅤOcurrio\x20un\x20error\x20inesperado:','listenerCount','./package.json','stdout','apply','red','3830154fXOJou','416466ddvtpZ','argv','exitProcess','test','HATSUNE-MIKU-ULTRA','log','reset','line','console','magenta','url','process','center','[RECEIVED]','main.js','✅Iniciando...','slice','1864521yvEUqo'];_0x5e4b=function(){return _0x4738d9;};return _0x5e4b();}
+console.log('✅ Iniciando...')
+
+import { join, dirname } from 'path'
+import { createRequire } from 'module';
+import { fileURLToPath } from 'url'
+import { setupMaster, fork } from 'cluster'
+import { watchFile, unwatchFile } from 'fs'
+import cfonts from 'cfonts';
+import { createInterface } from 'readline'
+import yargs from 'yargs'
+import express from 'express'
+import chalk from 'chalk'
+import path from 'path'
+import os from 'os'
+import { promises as fsPromises } from 'fs'
+
+// https://stackoverflow.com/a/50052194
+const __dirname = dirname(fileURLToPath(import.meta.url))
+const require = createRequire(__dirname) // Bring in the ability to create the 'require' method
+const { name, author } = require(join(__dirname, './package.json')) // https://www.stefanjudis.com/snippets/how-to-import-json-files-in-es-modules-node-js/
+const { say } = cfonts
+const rl = createInterface(process.stdin, process.stdout)
+
+const app = express()
+const port = process.env.PORT || 8080;
+
+say('Senna FG98', {
+  font: 'pallet',
+  align: 'center',
+  gradient: ['red', 'magenta']
+})
+say(`senna-bot By FG98 Ig: @fg98_ff`, {
+  font: 'console',
+  align: 'center',
+  gradient: ['cyan', 'magenta']
+})
+
+app.listen(port, () => {
+  console.log(chalk.green(`🌐 Puerto ${port} esta abierto`));
+});
+
+var isRunning = false
+
+async function start(file) {
+  if (isRunning) return
+  isRunning = true
+  const currentFilePath = new URL(import.meta.url).pathname
+  let args = [join(__dirname, file), ...process.argv.slice(2)]
+  say([process.argv[0], ...args].join(' '), {
+    font: 'console',
+    align: 'center',
+    gradient: ['red', 'magenta']
+  })
+  setupMaster({
+    exec: args[0],
+    args: args.slice(1),
+  })
+  let p = fork()
+  p.on('message', data => {
+    console.log('[RECEIVED]', data)
+    switch (data) {
+      case 'reset':
+        p.process.kill()
+        isRunning = false
+        start.apply(this, arguments)
+        break
+      case 'uptime':
+        p.send(process.uptime())
+        break
+    }
+  })
+  //---
+  p.on('exit', (_, code) => {
+    isRunning = false
+    console.error('❎ Ocurrió un error inesperado:', code)
+    start('main.js'); //
+
+    if (code === 0) return
+    watchFile(args[0], () => {
+      unwatchFile(args[0])
+      start(file)
+    })
+  })
+
+  //---
+  console.log(chalk.yellow(`🖥️ ${os.type()}, ${os.release()} - ${os.arch()}`));
+  const ramInGB = os.totalmem() / (1024 * 1024 * 1024);
+  console.log(chalk.yellow(`💾 Total RAM: ${ramInGB.toFixed(2)} GB`));
+  const freeRamInGB = os.freemem() / (1024 * 1024 * 1024);
+  console.log(chalk.yellow(`💽 Free RAM: ${freeRamInGB.toFixed(2)} GB`));
+  console.log(chalk.yellow(`📃 Script by FG98`));
+
+  const packageJsonPath = path.join(path.dirname(currentFilePath), './package.json');
+    try {
+    const packageJsonData = await fsPromises.readFile(packageJsonPath, 'utf-8');
+    const packageJsonObj = JSON.parse(packageJsonData);
+    console.log(chalk.blue.bold(`\n📦 Información del Paquete`));
+    console.log(chalk.cyan(`Nombre: ${packageJsonObj.name}`));
+    console.log(chalk.cyan(`Versión: ${packageJsonObj.version}`));
+    console.log(chalk.cyan(`Descripción: ${packageJsonObj.description}`));
+    console.log(chalk.cyan(`Autor: ${packageJsonObj.author.name}`));
+  } catch (err) {
+    console.error(chalk.red(`❌ No se pudo leer el archivo package.json: ${err}`));
+  }
+
+
+  console.log(chalk.blue.bold(`\n⏰ Hora Actual`));
+  const currentTime = new Date().toLocaleString('es-ES', { timeZone: 'America/Argentina/Buenos_Aires' })
+  //const currentTime = new Date().toLocaleString();
+  console.log(chalk.cyan(`${currentTime}`));
+
+  setInterval(() => {}, 1000);
+
+  
+
+  //----
+  let opts = new Object(yargs(process.argv.slice(2)).exitProcess(false).parse())
+  if (!opts['test'])
+    if (!rl.listenerCount()) rl.on('line', line => {
+      p.emit('message', line.trim())
+    })
+  // console.log(p)
+}
+
+start('main.js')
